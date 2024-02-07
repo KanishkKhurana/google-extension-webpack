@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "RapidContent",
+    "description": "Get amazing content rapidly and become the next internet sensation",
+    "version": "0.0.1",
+    "icons": {
+        "16": "images/myLogo.png",
+        "32": "images/myLogo.png",
+        "48": "images/myLogo.png",
+        "128": "images/myLogo.png"
+      },
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "RapidContent"
+    }
+  }
